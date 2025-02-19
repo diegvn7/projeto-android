@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'idroid';
+    src: url('idroid.otf') format('opentype')
+}
+
+.main-title {
+    color: #276FBF;
+    padding: 20px;
+    text-align: center;
+}
+
+.sub-title {
+    text-indent: 8px;
+    margin-top: 20px;
+    font-family: 'idroid';
+    font-size: larger;
+    color: #276FBF;
+    background-image: linear-gradient(to right, #CCE6F4, white);
+}
+
+.paragraph-center {
+    padding: 0px 20px 20px 20px;
+    text-align: center;
+}
+
+.paragraph-center.-colorg {
+    color: #000F08;
+}
+
+.font-title {
+    font-family: 'idroid';
+    color: #276FBF;
+}
+
+.format-paragraph {
+    text-align: justify;
+    font-size: 1em;
+    line-height: 2em;
+    text-indent: 20px;
+    padding-top: 20px;
+}
+
+.format-paragraph.-bottom {
+    padding-bottom: 20px;
+}
+
+.sub-sub-title {
+    text-align: center;
+    background-color: #276FBF;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    border-radius: 5px 5px 0px 0px;
+    margin: -10px
+}
